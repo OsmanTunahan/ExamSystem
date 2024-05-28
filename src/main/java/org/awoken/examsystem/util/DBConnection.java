@@ -7,7 +7,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class DBConnection {
-    private static final String URL = "jdbc:mysql://localhost:3306/exam";
+    private static final String URL = "jdbc:mysql://localhost:3306/exam_system";
     private static final String USER = "root";
     private static final String PASSWORD = "root";
 
