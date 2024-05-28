@@ -39,7 +39,8 @@ To start the project, follow these steps:
     - Make sure you have Apache Tomcat server installed on your machine.
     - Ensure you have MySQL server installed and running, and create a database named `exam_system`.
     - Configure the MySQL connection details in the `DBConnection.java` file if necessary.
-<br><br>
+
+
 2. **Import the Project**:
     - Import the project into your preferred IDE (like IntelliJ IDEA, Eclipse, etc.) as a Maven project.
 
