@@ -1,13 +1,12 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Exam System - Osman Tunahan ARIKAN</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>
+<!-- TODO: UI design will be added. -->
+<h1>Welcome to the Exam System</h1>
+<a href="admin">Admin Login</a><br>
+<a href="student">View Students</a>
 </body>
 </html>
